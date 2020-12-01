@@ -1,0 +1,13 @@
+{
+"viewportWidth": 1024,
+  "viewportHeight": 768,
+"baseUrl": "http://localhost:3000",
+ "pageLoadTimeout": 120000,
+  "reporter": "mochawesome",
+  "responseTimeout": 120000,
+  "reporterOptions": {
+    "overwrite": false,
+    "html": false,
+    "json": true
+  }
+}
